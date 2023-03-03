@@ -1,0 +1,10 @@
+Github does not allow pushing more than 100mb file or files so download packages and perl-modules' tar file from given link.
+
+G-drive link:-
+https://drive.google.com/file/d/1cLQd3cj81OanwcADbmWHQ6fm5BZOh_Kf/view?usp=share_link
+
+How to:-
+
+put otrs.sh, perl-6.0-depend.txt and otrs6-0-38-offline.tar.gz in same dir.
+
+then chmod +x otrs.sh and run ./otrs.sh
